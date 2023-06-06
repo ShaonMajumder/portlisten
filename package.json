@@ -1,0 +1,22 @@
+{
+  "name": "portlisten",
+  "version": "1.0.11",
+  "description": "The Port Scanner is a simple and efficient npm package that serves as a command-line utility for scanning ports on a specified host.",
+  "main": "index.js",
+  "bin": {
+    "portlisten": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git remote set-url  https://github.com/ShaonMajumder/portlisten.git",
+  "author": "Shaon Majumder <smazoomder@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "ethical hacking",
+    "ethical",
+    "hacking",
+    "portscanner"
+  ],
+  "homepage": "https://github.com/ShaonMajumder/portlisten"
+}
