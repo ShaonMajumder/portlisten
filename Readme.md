@@ -4,7 +4,7 @@ A simple port scanner utility for Node.js.
 This npm package provides a command-line tool for scanning ports on a given host within a specified range. It utilizes the 'net' module in Node.js to establish socket connections and determine if ports are open or closed.
 
 # Demo 
-![Portlisten Logo](https://github.com/ShaonMajumder/image-gallery-uploader/blob/HEAD/demo.gif)
+![Portlisten Logo](https://github.com/ShaonMajumder/portlisten/blob/HEAD/demo.gif)
 
 # Features
 - Scan ports within a specified range on a given host

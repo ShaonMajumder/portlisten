@@ -1,6 +1,6 @@
 {
   "name": "portlisten",
-  "version": "1.0.11",
+  "version": "1.0.0",
   "description": "The Port Scanner is a simple and efficient npm package that serves as a command-line utility for scanning ports on a specified host.",
   "main": "index.js",
   "bin": {
